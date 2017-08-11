@@ -1,3 +1,4 @@
 .idea
 nodes-*.conf
 redis-*.log
+redis-4.0.1
